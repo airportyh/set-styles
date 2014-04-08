@@ -1,0 +1,12 @@
+{
+  "name": "set-styles",
+  "version": "0.0.0",
+  "repo": "airportyh/set-styles",
+  "description": "Batch-set CSS properties on an element.",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+  "author": "Toby Ho",
+  "license": "MIT"
+}
