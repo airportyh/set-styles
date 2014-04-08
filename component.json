@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": [
     "index.js"
-  ]
+  ],
   "author": "Toby Ho",
   "license": "MIT"
 }
