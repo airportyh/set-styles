@@ -14,9 +14,9 @@ var setStyles = require('set-styles')
 
 setStyles(element, {
   position: 'absolute',
-  top: 100,
-  left: 200,
-  width: 200,
-  height: 200
+  top: 100 + 'px',
+  left: 200 + 'px',
+  width: 200 + 'px',
+  height: 200 + 'px'
 })
 ```
