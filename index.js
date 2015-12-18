@@ -1,5 +1,6 @@
 
 module.exports = function setStyles(elm, styles){
+  styles = styles || {}
   var lines = []
   for (var prop in styles){
     lines.push(deCamelCase(prop) + ': ' + String(styles[prop]) + ';')
